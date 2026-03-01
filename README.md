@@ -3,15 +3,15 @@
 Sou desenvolvedor apaixonado por tecnologia, sistemas bem organizados e por entender como as coisas realmente funcionam.
 Gosto de construir projetos do zero, pensar na estrutura antes de sair codando e sempre buscar performance e organização.
 
+### Inteligência Artificial
+- Codex
+
 ### Frontend
 - React  
 - Vite  
 - TypeScript  
 - React Router  
 - TailwindCSS  
-
-### Inteligência Artificial
-- Codex
 
 ### Backend
 - NestJS  
