@@ -1,4 +1,4 @@
-## 👋 Opa! Eu sou o João Victor
+## 👋 Opa! Eu sou o Victor
 
 Sou desenvolvedor apaixonado por tecnologia, sistemas bem organizados e por entender como as coisas realmente funcionam.
 Gosto de construir projetos do zero, pensar na estrutura antes de sair codando e sempre buscar performance e organização.
