@@ -10,6 +10,9 @@ Gosto de construir projetos do zero, pensar na estrutura antes de sair codando e
 - React Router  
 - TailwindCSS  
 
+### Inteligência Artificial
+- Codex
+
 ### Backend
 - NestJS  
 - Node.js  
